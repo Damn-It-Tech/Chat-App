@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "127878369028",
+    "firebase_url": "https://chatappagain-c569a.firebaseio.com",
+    "project_id": "chatappagain-c569a",
+    "storage_bucket": "chatappagain-c569a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127878369028:android:7aa84e9aef78af77c78a51",
+        "android_client_info": {
+          "package_name": "com.mehul.finalchatapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127878369028-3mu64obsatoimedfu8jumg43b7f1o9jv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mehul.finalchatapp1",
+            "certificate_hash": "60fe241fdc06fb204c26ea5be15e9ee5b68031e0"
+          }
+        },
+        {
+          "client_id": "127878369028-hoqulg6k4evdenllqt76fdresmut6mch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB98COaFs-4cTsviDCZEwOeFf0MpwRKNOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127878369028-hoqulg6k4evdenllqt76fdresmut6mch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

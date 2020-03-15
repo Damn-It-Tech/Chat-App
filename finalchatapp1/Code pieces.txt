@@ -1,0 +1,26 @@
+Code pieces
+
+Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                        builder: (context) =>
+                            MyWidget()), // mywidget is in secondscreen
+                  );
+onPressed: () async {
+                dynamic singedin = await realauth.emailsignup();
+                if (singedin == null) {
+                  print('error');
+                } else {
+                  print(singedin);
+                  print(singedin.email);
+                  print('hii');
+                }
+              },
+
+FlatButton(
+              child: Text('logout'),
+              onPressed: () async {
+                await realauth.logout();
+                print('logout');
+              },
+            ),
